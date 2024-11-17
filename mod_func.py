@@ -1,5 +1,5 @@
 #classe modelo apenas para importar
-#teste de alteracao 
+#teste de alteracao ssh
 
 senha = 0
 nome = ''
