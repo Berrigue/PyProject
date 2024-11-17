@@ -1,4 +1,5 @@
 #classe modelo apenas para importar
+#teste de alteracao 
 
 senha = 0
 nome = ''
