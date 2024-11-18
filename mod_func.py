@@ -5,6 +5,12 @@ senha = 0
 nome = ''
 opcao = 0
 
+
+
+def mensagemDeBomdia():
+    print('Bom dia!')
+
+
 #identifica nome
 def identificaNome():
     nome = input('Digite o seu nome por favor: ')
