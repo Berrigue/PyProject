@@ -68,5 +68,3 @@ if __name__=='__main__':
     meu_aviao.movimentar()
     meu_aviao.get_fabr_modelo()
     print(f'Categoria: {meu_aviao.get_categoria()}')
-    
-    
