@@ -1,5 +1,6 @@
 from decimal import Decimal
 
+# Programa que simula uma catraca bem FULERA! 
 # Configurações iniciais
 Catraca = True
 CatracaCount = 0
